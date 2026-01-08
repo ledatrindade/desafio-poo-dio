@@ -109,15 +109,5 @@ Toda a interação acontece pelo **console**, tornando a simulação mais próxi
 - Git e GitHub
 - IntelliJ IDEA
 
----
 
-## 🤝 Contribuições
 
-Este repositório foi criado com fins educacionais.
-
-Se este projeto te ajudou de alguma forma:
-- ⭐ Dê um star no repositório
-- 🐛 Reporte issues
-- 💡 Sugira melhorias
-
-Toda contribuição é bem-vinda!
