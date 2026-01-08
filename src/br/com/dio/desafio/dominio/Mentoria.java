@@ -7,6 +7,7 @@ import java.time.LocalDate;
  * Diferente do curso, não depende de carga horária,
  * mas possui uma data específica.
  */
+
 public class Mentoria extends Conteudo {
 
     // Data em que a mentoria acontece
